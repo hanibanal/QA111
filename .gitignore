@@ -3,6 +3,7 @@
 
 # Log file
 *.log
+*.txt
 
 #this line excluded .idea configs folder
 *.idea
